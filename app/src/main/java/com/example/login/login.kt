@@ -1,4 +1,7 @@
-sidnuppackage com.example.login
+import com.example.login.MainActivity
+import com.example.login.R
+
+
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -33,3 +36,4 @@ class login : AppCompatActivity() {
         }
 
     }
+
